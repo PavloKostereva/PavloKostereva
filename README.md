@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me email me at pavlokostereva@gmail.com or connect with me on LinkedIn
-- 😄 Pronouns: he/him
