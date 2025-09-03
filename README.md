@@ -22,10 +22,9 @@
   <a href="https://t.me/pavlo_k01" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram" />
   </a>
-  <!-- LeetCode -->
   <a href="https://leetcode.com/u/Pavlo_01/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45" height="40" alt="LeetCode" />
-  </a>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="45" height="40" alt="LeetCode" />
+</a>
 </div>
 
 
