@@ -26,9 +26,3 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="45" height="40" alt="LeetCode" />
 </a>
 </div>
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/PavloKostereva/count.svg?"  />
-</div>
-
