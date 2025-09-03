@@ -7,6 +7,10 @@
   <a href="mailto:pavlokostereva@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
+
+  <a href="https://leetcode.com/u/Pavlo_01/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="45" height="40" alt="LeetCode" />
+</a>
   
   <!-- Instagram -->
   <a href="https://www.instagram.com/k_pavlo_?igsh=dWYwNnB6dTVmN2d3" target="_blank">
@@ -22,7 +26,5 @@
   <a href="https://t.me/pavlo_k01" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="Telegram" />
   </a>
-  <a href="https://leetcode.com/u/Pavlo_01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="45" height="40" alt="LeetCode" />
-</a>
+  
 </div>
